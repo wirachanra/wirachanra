@@ -1,14 +1,12 @@
+![Design and Development](https://github.com/wirachanra/wirachanra/blob/main/coverwira.jpg)
+
 Hi 👋 My name is Wira Chanra
 ==============================
-
-Full Stack Developer
---------------------
-
-Hi, I’m Wira. I’m a full stack developer. I'm more interested in Frontend Programming but also like Backend development. .
+ I’m a full stack developer. I'm more interested in Frontend Programming but also like Backend development.
 
 * ✉️  You can contact me at [wirachanra@gmail.com](mailto:wirachanra@gmail.com)
 * 🤝  I'm open to collaborating on any Projects.
-* 
+
 ### Skills 👨‍💻
 
 ### Core
