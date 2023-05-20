@@ -49,7 +49,7 @@ I’m a full stack developer. I'm more interested in Frontend Programming but al
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
 <img  alt="Canva"  width="36" height="36" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
 </a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/wirachanra/wirachanra/blob/main/img/adobeps.png" width="38" height="38" alt="AdobePs" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/wirachanra/wirachanra/blob/main/img/adobeps.png" width="40" height="40" alt="AdobePs" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/wirachanra/wirachanra/blob/main/img/adobeai.png" width="36" height="36" alt="AdobeAI" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/wirachanra/wirachanra/blob/main/img/sketchup.webp" width="36" height="36" alt="Sketchup" /></a>
 
