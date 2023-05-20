@@ -10,7 +10,8 @@ I’m a full stack developer. I'm more interested in Frontend Programming but al
 ### Connect With Me
 
 <p align="left"> 
-<a href="https://instagram.com/wira.lin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="32" width="32" /></a>
+<a href="https://instagram.com/wira.lin/" target="blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- generator/master/src/images/icons/Social/instagram.svg" alt="wira.lin" height="32" width="32" /></a>
 <a href="https://discord.com/users/UNCLE BRAY!#6009" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
 <a href="https://www.github.com/wirachanra" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
