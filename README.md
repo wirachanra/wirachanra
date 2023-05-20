@@ -48,7 +48,7 @@ I’m a full stack developer. I'm more interested in Frontend Programming but al
 <!-- Statics -->
 ### 📊 Statistics
 <!-- compact programming languages layout -->
-<div class="stats" align="center">
+<div class="stats" align="left">
 
 ![Khaled Badran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=wirachanra&hide=stars&count_private=true&show_icons=true&theme=algolia&border_radius=20)
 
