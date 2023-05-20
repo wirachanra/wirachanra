@@ -1,11 +1,21 @@
-![Design and Development](https://github.com/wirachanra/wirachanra/blob/main/coverwira.jpg)
+![Cover](https://github.com/wirachanra/wirachanra/blob/main/coverwira.jpg)
 
-Hi 👋 My name is Wira Chanra
+Wira Chanra
 ==============================
- I’m a full stack developer. I'm more interested in Frontend Programming but also like Backend development.
+I’m a full stack developer. I'm more interested in Frontend Programming but also like Backend development. As a Frontend Developer with a strong passion for design, I specialize in developing beautiful and user-friendly interfaces that bring digital experiences to life. With expertise in HTML, CSS, JavaScript, and various frontend frameworks like React and Next.js
 
 * ✉️  You can contact me at [wirachanra@gmail.com](mailto:wirachanra@gmail.com)
 * 🤝  I'm open to collaborating on any Projects.
+
+### Connect With Me
+
+<p align="left"> 
+<a href="https://instagram.com/wira.lin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplified_learner" height="32" width="32" /></a>
+<a href="https://discord.com/users/UNCLE BRAY!#6009" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
+<a href="https://www.github.com/wirachanra" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="https://www.linkedin.com/in/wirachanra/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </p>
+
 
 ### Skills 👨‍💻
 
@@ -35,14 +45,6 @@ Hi 👋 My name is Wira Chanra
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
  <a href="https://www.heroku.com/" rel="nofollow"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" style="max-width: 100%;"></a>
 </p>
-
-
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/UNCLE BRAY!#6009" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> 
-<a href="https://www.github.com/wirachanra" target="_blank" rel="noreferrer">
- <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
- <a href="https://www.linkedin.com/in/wirachanra/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </p>
 
 ### Badges
 
