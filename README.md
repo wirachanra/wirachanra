@@ -29,5 +29,5 @@ I’m a full stack developer. I'm more interested in Frontend Programming but al
 * Sketch UP
 
 ### My Portfolio 💻
-<a href="https://wirachanra.vercel.app/" target="_blank" rel="noreferrer"><img src="https://github.com/wirachanra/wirachanra/blob/main/6.1portfolio.png" width="466" height="1000" alt="myPortfolioWiraChanra" /></a>
+<a href="https://wirachanra.vercel.app/" target="_blank" rel="noreferrer"><img src="https://github.com/wirachanra/wirachanra/blob/main/6.1portfolio.png" width="400" height="800" alt="myPortfolioWiraChanra" /></a>
 
