@@ -11,7 +11,7 @@ I’m a full stack developer. I'm more interested in Frontend Programming but al
 * 🤝  I'm open to collaborating on any Projects.
 
 <!-- Skill or Tools -->
-### Programming Language and Tools 👨‍💻
+### 👨‍💻 Programming Language and Tools 
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
 <img  alt="vscode" height="50px" style="padding-right:10px;"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
@@ -33,7 +33,7 @@ I’m a full stack developer. I'm more interested in Frontend Programming but al
 </p>
 
 <!-- Design Tools -->
-### Design Tools 👨‍💻
+### 👨‍💻 Design Tools  
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 <img  alt="Figma" height="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/> 
 </a>
@@ -46,8 +46,9 @@ I’m a full stack developer. I'm more interested in Frontend Programming but al
 * Sketch UP
 
 <!-- Statics -->
-<h2 style="color: #44AEFB">📊 Statistics</h2>
+### 📊 Statistics
 <!-- compact programming languages layout -->
+<div class="stats" align="center">
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wirachanra&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 </div>
 
