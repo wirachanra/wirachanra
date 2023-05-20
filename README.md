@@ -32,7 +32,7 @@ I’m a full stack developer. I'm more interested in Frontend Programming but al
 </a>
 <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://github.com/wirachanra/wirachanra/blob/main/img/tailwind.png" width="36" height="36" alt="React" /></a>
-<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://github.com/wirachanra/wirachanra/blob/main/img/muilogo.png" width="36" height="36" alt="React" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://github.com/wirachanra/wirachanra/blob/main/img/muilogo.png" width="37" height="37" alt="React" /></a>
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
@@ -49,7 +49,7 @@ I’m a full stack developer. I'm more interested in Frontend Programming but al
 <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
 <img  alt="Canva"  width="36" height="36" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/> 
 </a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/wirachanra/wirachanra/blob/main/img/adobeps.png" width="36" height="36" alt="AdobePs" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/wirachanra/wirachanra/blob/main/img/adobeps.png" width="38" height="38" alt="AdobePs" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/wirachanra/wirachanra/blob/main/img/adobeai.png" width="36" height="36" alt="AdobeAI" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/wirachanra/wirachanra/blob/main/img/sketchup.webp" width="36" height="36" alt="Sketchup" /></a>
 
